@@ -1,0 +1,5 @@
+out/
+*.class
+lostfound.db
+sources.txt
+*.zip
