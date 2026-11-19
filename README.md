@@ -34,5 +34,8 @@ Then open http://localhost:8080 in a browser.
 - `lib/` - SQLite JDBC driver and slf4j jars
 
 ## Team
-[Name 1 - Reg. No.], [Name 2 - Reg. No.], [Name 3 - Reg. No.]
-Faculty: [Faculty name]
+AP25110070534 - LIKHITHA MANDAVA
+AP25110070533 - SHANMUKHI
+AP25110071262 - JWALITHA
+AP25110070626 - PRANATHI POOJA G
+Faculty: SRIKANTH LUKKA
